@@ -607,16 +607,6 @@ The final result of an obstacle-avoiding car project typically demonstrates the 
 •	Real-time obstacle avoidance:
      Ultrasonic sensors allow for real-time obstacle detection and avoidance, enabling the vehicle to move towards its target area while avoiding obstacles.
 
-
-
-
-
-
-
- 
-
- 
-
 CONCLUSION
 
 Following study on the aforementioned Arduino controller and ultrasonic sensor, the HC-SR04 ultrasonic sensor was selected because its control outcomes are suitable for usage in the recently developed vehicle prototype system. 
