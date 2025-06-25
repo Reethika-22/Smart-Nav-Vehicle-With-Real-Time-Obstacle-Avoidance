@@ -14,6 +14,7 @@ In this comprehensive guide, I will explain the process of constructing very own
 
 
 LITERATURE SURVEY :-
+
 Following are some facts that are based on a thought analysis of various authors' works and are revealed in this area of the literature study.
 He Kezhong in 1996, An autonomous Robot was developed in house for outdoor applications and demonstrated on road-following with obstacle avoidance task at an average speed of 3m/s. Here the computer vision i.e. Ultra sonic sensor are used in the robot of road following and obstacle avoiding
 Gopalkrishnan in 2004 have developed Methodology for design and development of an Autonomous Robot for implementing intelligent behaviours, with the help of microcontroller interfaced & Sensor. The component of robot were microcontroller, control software, Sensors & Actuators. The controller is generally based on microcontroller or personal computer.
