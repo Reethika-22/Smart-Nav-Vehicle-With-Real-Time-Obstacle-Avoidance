@@ -24,6 +24,7 @@ Kunhsiangwu in 1999 have proposed path of planning method using fuzzy logic cont
  
 PROJECT REQUIREMENTS:-
 Hardware and Software Requirements: -
+
 Arduino Board: 
 The brain of the car. It processes input from sensors and controls the motors accordingly. An Arduino board processing data from sensors like ultrasonic sensors, and controlling motors to navigate and avoid obstacles. 
 Arduino UNO: 
@@ -399,7 +400,9 @@ void turnLeft()
   motor3.run(FORWARD);
   motor4.run(FORWARD);
 }
-BENEFITS OF SMART NAV VEHICLE WITH REAL TIME OBSTACLE AVOIDANCE
+
+
+BENEFITS OF SMART NAV VEHICLE WITH REAL TIME OBSTACLE AVOIDANCE:-
 1.Safety and Reduced Accidents:
 Collision Avoidance:
 Obstacle avoidance systems, using sensors and AI, can detect and react to obstacles, preventing collisions and reducing the risk of accidents. 
@@ -420,7 +423,7 @@ Autonomous vehicles can optimize speed and reduce idling, leading to lower fuel 
 Sustainable Transportation:
 By contributing to a more efficient and sustainable transportation system, obstacle-avoiding cars can help address climate change and air pollution
 
-CHALLENGES OF SMART NAV VEHICLE WITH REAL TIME OBSTACLE AVOIDANCE
+CHALLENGES OF SMART NAV VEHICLE WITH REAL TIME OBSTACLE AVOIDANCE:-
 1. Real-World Limitations & Complexity:
 Limited Training Data:
 Obstacle-avoiding systems are often trained on specific scenarios, which may not cover all possible real-world situations. 
@@ -440,7 +443,9 @@ Sudden Maneuvers:
 In an attempt to avoid an obstacle, an obstacle-avoiding car might make sudden or unexpected maneuvers, potentially leading to accidents.
 Human Overriding:
 If the system fails or makes an unsafe decision, the driver might need to take control, which could be difficult or dangerous in a complex situation.
-REAL WORLD APPLICATIONS
+
+
+REAL WORLD APPLICATIONS:-
 
 1.	Self-Driving and Autonomous Vehicles:
 Foundation for self-driving cars that navigate without human intervention.
@@ -450,55 +455,64 @@ Traffic Efficiency:
 Autonomous vehicles with robust obstacle avoidance systems can contribute to smoother traffic flow and reduced accidents.
 Blind Spot Detection:
 These systems can identify hidden dangers in blind spots that human drivers might miss. 
+
 2.  Industrial Automation:
 Robotics in Warehouses and Factories:
 Obstacle avoidance allows robots to move autonomously within warehouses and factories, performing tasks like material handling and assembly without human intervention. Automated guided vehicles (AGVs) in warehouses for inventory management.
 Autonomous Guided Vehicles (AGVs):
 AGVs, which are used for transporting goods within industrial facilities, rely on obstacle avoidance technology to navigate complex environments. Autonomous delivery bots for last-mile delivery in urban areas.
+
 3.	Household and Personal Use:
 Automated guided robots in factories to transport goods.
 Robotic Vacuum Cleaners:
 These devices use obstacle avoidance to navigate homes and clean floors without bumping into furniture or walls.
-
-
 Assistive Devices:
 Obstacle avoidance can be incorporated into robots or other devices to assist people with mobility limitations or in dangerous environments. 
+
 4.	Disaster Relief and Rescue Operations
 Search and rescue operations in disaster-prone areas.
 Exploration of dangerous environments where human access is risky.
 Detect and navigate through rubble to locate trapped individuals.
+
 5.	Military and Surveillance Applications
 Autonomous patrolling of restricted or high-risk zones.
 Unmanned vehicles for bomb detection and disposal.
 Reconnaissance and surveillance in hazardous environments.
+
 6.	Exploration and Research:
 Dangerous Environments:
 Obstacle avoidance is essential for robots used in hazardous environments, such as disaster zones or nuclear facilities, where human intervention is risky. 
 Space Exploration:
 Robots designed for space exploration require robust obstacle avoidance capabilities to navigate unknown terrains and avoid collisions with obstacles. 
+
 7.	Agriculture and Farming
 Autonomous tractors and farm machinery for plowing and harvesting.
 Surveillance and monitoring of agricultural fields.
 Detecting and avoiding obstacles in uneven terrains.
+
 8.	Traffic and Parking Management
 Smart cars that avoid collisions while parking.
 Autonomous parking assistants to guide vehicles in tight spaces.
+
 9.	Entertainment and Toys:
 Smart robotic toys with obstacle avoidance features.
 Autonomous RC cars for fun and interactive learning.
 
 10.	Education and Research: 
 Obstacle-avoiding cars serve as hands-on tools for teaching robotics, programming, and sensor integration (e.g., ultrasonic or infrared sensors) to students and hobbyists, fostering innovation in STEM fields.
+
 11.	Healthcare and Elderly Care*
  Mobility Assistance: 
      Autonomous wheelchairs or mobility devices can assist elderly or disabled individuals by navigating environments while avoiding obstacles.
 Telepresence Robots: 
 Robots allowing healthcare professionals to remotely consult patients can navigate hospitals or care facilities autonomously.
+
 12.	Indoor Navigation:
 Service Robots: 
 Robots used in hospitals, hotels, or large facilities can navigate indoor environments while avoiding people and furniture to deliver items or provide information.
  Automated Cleaning Devices: 
 Robotic vacuum cleaners utilize obstacle avoidance to clean efficiently without getting stuck or damaging furniture.
+
 13.	Other Applications:
 Agricultural Vehicles:
 Autonomous agricultural vehicles can use obstacle avoidance to navigate fields and perform tasks like planting and harvesting. 
